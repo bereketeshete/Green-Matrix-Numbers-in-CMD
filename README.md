@@ -1,2 +1,2 @@
 # Encoding-Decoding
-Matrix.bat - Displays random matrix numbers
+Matrix.bat - Displays random matrix numbers in cmd
